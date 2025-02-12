@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, my name is Basia</h1>
-<h3 align="center">A cybersecurity student from Poland</h3>
 
 <h2 align="center"> 🌱 I’m currently learning Web development, networking and operating systems</h2>
 
